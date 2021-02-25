@@ -10,6 +10,6 @@ load the script and then checks to see if it needs to do anything.
 4.Variables : JavaScript variables are containers for storing data values. the data stored in a variable can change its follow for example “ var name = data “
 
 ###Data Type:
->NUMERIC : The numeric data type handles numbers.
->STRING : The strings data type consists of letters and other characters.
->BOOLEAN : Boolean data types can have one of two values: true or false
+1.NUMERIC : The numeric data type handles numbers.
+2.STRING : The strings data type consists of letters and other characters.
+3.BOOLEAN : Boolean data types can have one of two values: true or false
